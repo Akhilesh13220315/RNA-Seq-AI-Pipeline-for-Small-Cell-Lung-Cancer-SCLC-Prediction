@@ -1,6 +1,3 @@
-# RNA-Seq-AI-Pipeline-for-Small-Cell-Lung-Cancer-SCLC-Prediction
-This repository outlines an end-to-end RNA-seq analysis pipeline for Small Cell Lung Cancer (SCLC) using public datasets. The pipeline includes data download, preprocessing, alignment, quantification, differential expression analysis, and functional annotation.
-
 1. Dataset Selection
 A widely used public dataset for SCLC RNA-seq is available from the Gene Expression Omnibus (GEO).
 
@@ -165,4 +162,4 @@ http://bioinf.wehi.edu.au/featureCounts/
 
 https://bioconductor.org/packages/release/bioc/html/DESeq2.html
 
-https://bioconductor.org/packages/release/bioc/html/clusterProfiler.html  + in proper fomrat no change
+https://bioconductor.org/packages/release/bioc/html/clusterProfiler.html
