@@ -6,7 +6,7 @@
 
 
 # change working dir
-cd /home/patelk26/KP/papThyCarc_bulkRNASeq
+cd /User/akhi/Desktop/RNA_Analysis/papThyCarc_bulkRNASeq
 
 
 
